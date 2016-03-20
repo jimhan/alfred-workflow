@@ -8,7 +8,7 @@ Ask VLC to **play**, **pause** or play the **next** item. You could type the com
 
 ## Download
 
-[Control VLC in Global HotKey.alfredworkflow](https://github.com/jimhan/alfred-workflow/tree/master/Control-VLC-in-Global-HotKey)
+[Control VLC in Global HotKey.alfredworkflow](https://raw.github.com/jimhan/alfred-workflow/master/Control-VLC-in-Global-HotKey/Control-VLC-in-Global-HotKey.alfredworkflow)
 
 ## Key code
 
