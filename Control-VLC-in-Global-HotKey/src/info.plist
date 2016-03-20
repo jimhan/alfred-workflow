@@ -62,7 +62,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Control VLC in Global HotKey</string>
+	<string>Control-VLC-in-Global-HotKey</string>
 	<key>objects</key>
 	<array>
 		<dict>
