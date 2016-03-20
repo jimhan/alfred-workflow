@@ -4,7 +4,7 @@ It is a simple Alfred workflow.
 
 ## Function
 
-Ask VLC to ==**play**, **pause**== or play the ==**next**== item. You could type the command in Alfred or set the Global HotKey in Alfred to do it.
+Ask VLC to **play**, **pause** or play the **next** item. You could type the command in Alfred or set the Global HotKey in Alfred to do it.
 
 ## Download
 
